@@ -1,0 +1,17 @@
+export default {
+	green100: "#aae1b2",
+	green: "#5cb15a",
+	green200: "#4c9e52",
+	white: "#f3f0f0",
+	blue: "#0FA5AA",
+	gray: "#d4d4d4",
+	gray100: "#cfcfcf",
+	gray150: "#949292",
+	gray200: "#7a86ae",
+	yellow: "#f0bb22",
+	red: "#e54d4d",
+	red200: "#da2c1d",
+	bgBox: "#cccbcb",
+	bgDashBoard: "#e1e1e1",
+	pink: "#F576AC",
+};
